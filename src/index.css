@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-pixel: 'Pixelify Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-retro: 'Press Start 2P', monospace;
+    --font-silk: 'Silkscreen', monospace;
+    --font-vt: 'VT323', monospace;
+  }
+
+  body {
+    transition: font-family 0.3s ease;
+    font-family: 'Pixelify Sans', sans-serif;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  input, textarea, select {
+    user-select: text;
+    -webkit-user-select: text;
+  }
+}
+
+.font-pixel {
+  font-family: 'Pixelify Sans', sans-serif;
+}
+
+.font-retro {
+  font-family: 'Press Start 2P', monospace;
+}
+
+.font-silk {
+  font-family: 'Silkscreen', monospace;
+}
+
+.font-vt {
+  font-family: 'VT323', monospace;
+}
+
+/* Pixel borders */
+.pixel-box {
+  box-shadow: 
+    -2px 0 0 0 #000,
+    2px 0 0 0 #000,
+    0 -2px 0 0 #000,
+    0 2px 0 0 #000;
+}
+
+.pixel-box-white {
+  box-shadow: 
+    -2px 0 0 0 #fff,
+    2px 0 0 0 #fff,
+    0 -2px 0 0 #fff,
+    0 2px 0 0 #fff;
+}
+
+.pixel-box-cyan {
+  box-shadow: 
+    -2px 0 0 0 #38bdf8,
+    2px 0 0 0 #38bdf8,
+    0 -2px 0 0 #38bdf8,
+    0 2px 0 0 #38bdf8;
+}
+
+.pixel-border-win {
+  border: 3px solid #1e3a8a;
+  outline: 2px solid #60a5fa;
+}
+
+/* Custom scrollbar for retro windows */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3b82f6;
+  border: 2px solid #1e293b;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #60a5fa;
+}
+
+
+body.font-montserrat,
+body.font-montserrat * {
+  font-family: 'Montserrat', sans-serif !important;
+}
+body.font-montserrat {
+  image-rendering: auto !important;
+}

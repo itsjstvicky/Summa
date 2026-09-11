@@ -1,0 +1,55 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Portfolio configuration and content documents
+    // Public read for visitors
+    match /portfolio/{docId} {
+      allow read: if true;
+      allow write: if true;
+    }
+    
+    match /projects/{projectId} {
+      allow read: if true;
+      allow write: if true;
+    }
+    
+    match /skills/{skillId} {
+      allow read: if true;
+      allow write: if true;
+    }
+    
+    match /experiences/{expId} {
+      allow read: if true;
+      allow write: if true;
+    }
+    
+    match /desktopIcons/{iconId} {
+      allow read: if true;
+      allow write: if true;
+    }
+    
+    match /settings/{settingId} {
+      allow read: if true;
+      allow write: if true;
+    }
+    
+    match /contact/{contactId} {
+      allow read: if true;
+      allow write: if true;
+    }
+    
+    // Contact form submissions from visitors
+    match /messages/{messageId} {
+      allow read: if true;
+      allow create: if true;
+      allow update, delete: if true;
+    }
+    
+    // Master backup sync document
+    match /cms_state/{stateId} {
+      allow read: if true;
+      allow write: if true;
+    }
+  }
+}

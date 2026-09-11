@@ -1,0 +1,10 @@
+{
+  "name": "Vigneshwaran - UX-UI Designer & Video Editor",
+  "description": "UX/UI Designer And Video Editor",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

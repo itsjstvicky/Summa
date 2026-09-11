@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" style="image-rendering: pixelated;">
+  <!-- Dark Blue Background with rounded corners -->
+  <rect width="32" height="32" rx="6" fill="#0b1739"/>
+  <rect x="1" y="1" width="30" height="30" rx="5" fill="none" stroke="#1e3a8a" stroke-width="1"/>
+
+  <!-- 4 Pixel Art Windows 11 Tiles in Vibrant Cyan & Blue -->
+  <rect x="6" y="6" width="9" height="9" rx="1" fill="#38bdf8"/>
+  <rect x="17" y="6" width="9" height="9" rx="1" fill="#0284c7"/>
+  <rect x="6" y="17" width="9" height="9" rx="1" fill="#0284c7"/>
+  <rect x="17" y="17" width="9" height="9" rx="1" fill="#38bdf8"/>
+
+  <!-- Pixel Highlights -->
+  <rect x="7" y="7" width="2" height="2" fill="#e0f2fe"/>
+  <rect x="18" y="7" width="2" height="2" fill="#bae6fd"/>
+  <rect x="7" y="18" width="2" height="2" fill="#bae6fd"/>
+  <rect x="18" y="18" width="2" height="2" fill="#e0f2fe"/>
+</svg>

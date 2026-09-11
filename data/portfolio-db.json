@@ -1,0 +1,1420 @@
+{
+  "portfolio": {
+    "greeting": "HI, I'M",
+    "name": "VIGNESHWARAN",
+    "role": "Designer & Video Editor",
+    "shortBio": "I create intuitive designs, engaging experiences and visual stories.",
+    "longBio": "I am Vignesh, a multidisciplinary Digital Creator and UI/UX Designer based in Trichy, India. I specialize in crafting high-impact digital experiences, user interfaces, AI-powered video generation, and cinematic motion graphics. With a passion for pixel-perfect detail and storytelling, I bridge the gap between creative vision and interactive execution.",
+    "location": "TRICHY, INDIA",
+    "locationText": "BASED IN TRICHY, INDIA",
+    "availabilityText": "AVAILABLE FOR FREELANCE",
+    "isAvailable": true,
+    "ctaText": "EXPLORE MY WORK",
+    "ctaLink": "#projects",
+    "profileImage": "https://lh3.googleusercontent.com/d/13mIrGGgehXGJkY_IrSN4kuoieSQ-4BcC",
+    "tagline": "Turning ideas into pixel perfect experiences.",
+    "faviconUrl": "https://lh3.googleusercontent.com/d/1srBV15lsaeT7WM0OJJFqcmTtiqLIVV5O",
+    "heroLogoImage": "https://lh3.googleusercontent.com/d/1srBV15lsaeT7WM0OJJFqcmTtiqLIVV5O",
+    "heroLogoSize": 212,
+    "resumeUrl": "https://lh3.googleusercontent.com/d/1clVcKIvV02S6T9k3IDRPGZOGNzt8JWGw",
+    "updatedAt": {
+      "type": "firestore/timestamp/1.0",
+      "nanoseconds": 576000000,
+      "seconds": 1787426393
+    }
+  },
+  "projects": [
+    {
+      "id": "p_1787426680003",
+      "title": "Morais City Website Redesign",
+      "category": "UX/UI Projects",
+      "shortDescription": "A modern real-estate experience designed to simplify property discovery and showcase the Morais City lifestyle.",
+      "summary": "Morais City is a large-scale integrated township in Trichy, offering residential properties, commercial spaces, retail opportunities, entertainment and lifestyle amenities in one destination.\n\nI redesigned the Morais City website to create a more structured, modern and conversion-focused digital experience. The goal was to make it easier for users to discover properties, understand the township ecosystem, explore individual projects and take action through clear enquiry and contact touchpoints.\n\nThe redesign focused on improving information hierarchy, navigation, property discovery, visual storytelling and responsive UI patterns while maintaining the premium positioning of the Morais City brand.\n\nThe experience brings residential, commercial and lifestyle offerings into a clearer digital journey, helping prospective buyers, investors and visitors move from discovery to project exploration and enquiry with less friction.",
+      "aboutProject": "",
+      "fullDescription": "",
+      "thumbnail": "https://lh3.googleusercontent.com/d/1l11A275mOcOi5S8VheRbSzvl3z8A4yFQ",
+      "heroMediaType": "embed",
+      "heroMediaUrl": "",
+      "caseStudyUrl": "https://moraiscity.com/",
+      "caseStudyVideoUrl": "https://moraiscity.com/",
+      "showCaseStudyButton": true,
+      "caseStudyButtonText": "VIEW CASE STUDY",
+      "projectUrl": "",
+      "layoutStyle": "default",
+      "contentAlignment": "left",
+      "mediaDisplayMode": "all",
+      "tags": [
+        "Figma",
+        "googlestitch"
+      ],
+      "date": "2026",
+      "featured": true,
+      "visible": true,
+      "order": 1,
+      "accentColor": "#38bdf8",
+      "bgColor": "#0f2854",
+      "roles": [
+        "UX/UI Designer",
+        "UX Research",
+        "Visual & Interaction Design",
+        "Responsive UI Design",
+        "Prototype"
+      ],
+      "workflow": [
+        {
+          "title": "Discovery & Audit",
+          "icon": "idea",
+          "description": "Reviewed the existing website, content structure and user journeys to identify usability gaps, navigation issues and opportunities to improve property discovery."
+        },
+        {
+          "title": "Information Architecture",
+          "icon": "idea",
+          "description": "Reorganized the content around key user needs — residential properties, commercial spaces, amenities, projects and enquiries — creating a more intuitive information hierarchy."
+        },
+        {
+          "title": "UX Flow & Wireframes",
+          "icon": "idea",
+          "description": "Defined key user flows and page structures before moving into high-fidelity UI, focusing on reducing friction between property discovery and enquiry."
+        },
+        {
+          "title": "Visual Design",
+          "icon": "idea",
+          "description": "Created a premium, modern interface system with structured layouts, strong typography, property-focused imagery, clear CTAs and reusable UI components."
+        },
+        {
+          "title": "Responsive Design",
+          "icon": "idea",
+          "description": "Designed responsive layouts to maintain usability and visual consistency across desktop, tablet and mobile screen sizes."
+        },
+        {
+          "title": "UI Refinement",
+          "icon": "idea",
+          "description": "Refined spacing, hierarchy, interactions and component consistency across the experience to create a cohesive final product."
+        }
+      ],
+      "outputs": [
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1FcLSZxorKwgoBVnbdj7_OK-lrpRSej3Y",
+          "title": "Homepage",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1wOX4Rc6BnauA3AkfFq6Kl5h5CAZtJBCK",
+          "title": "Project Page",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1D8dvd8ELAi9-cEIpbE1BvbCZ1Gt6jmpk",
+          "title": "NRI Page",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1vz5hf-zD6kWDhBjlNX3-1pfh5AtH3hkX",
+          "title": "About us",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1D8dvd8ELAi9-cEIpbE1BvbCZ1Gt6jmpk",
+          "title": "Career Page",
+          "caption": ""
+        }
+      ],
+      "projectImages": [
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1FcLSZxorKwgoBVnbdj7_OK-lrpRSej3Y",
+          "title": "Homepage",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1wOX4Rc6BnauA3AkfFq6Kl5h5CAZtJBCK",
+          "title": "Project Page",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1D8dvd8ELAi9-cEIpbE1BvbCZ1Gt6jmpk",
+          "title": "NRI Page",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1vz5hf-zD6kWDhBjlNX3-1pfh5AtH3hkX",
+          "title": "About us",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1D8dvd8ELAi9-cEIpbE1BvbCZ1Gt6jmpk",
+          "title": "Career Page",
+          "caption": ""
+        }
+      ],
+      "impactMetrics": [
+        {
+          "value": "",
+          "label": "Improved Information Hierarchy",
+          "icon": "chart"
+        },
+        {
+          "value": "",
+          "label": "Simplified Property Discovery",
+          "icon": "chart"
+        },
+        {
+          "value": "",
+          "label": "Responsive Experience",
+          "icon": "chart"
+        },
+        {
+          "value": "",
+          "label": "Conversion-Focused CTAs",
+          "icon": "chart"
+        },
+        {
+          "value": "",
+          "label": "Scalable UI Components",
+          "icon": "chart"
+        }
+      ],
+      "impactDescription": "The redesign transformed Morais City's digital presence into a clearer, more structured and visually engaging property discovery experience.\n\nThe new experience makes it easier for users to understand the Morais City ecosystem, explore residential and commercial offerings, discover amenities and move towards enquiry with clearer calls to action.\n\nThe key takeaway was balancing a premium real-estate visual language with practical UX, making a large amount of property information easier to scan, understand and navigate.",
+      "finalVerdict": "The redesign transformed Morais City's digital presence into a clearer, more structured and visually engaging property discovery experience.\n\nThe new experience makes it easier for users to understand the Morais City ecosystem, explore residential and commercial offerings, discover amenities and move towards enquiry with clearer calls to action.\n\nThe key takeaway was balancing a premium real-estate visual language with practical UX, making a large amount of property information easier to scan, understand and navigate.",
+      "heroMediaEmbedCode": "<iframe style=\"border: 1px solid rgba(0, 0, 0, 0.1);\" width=\"800\" height=\"450\" src=\"https://embed.figma.com/proto/8N9KnZiAUDqNpfkyVMMoXC/Morais-City?node-id=320-1691&scaling=scale-down-width&content-scaling=fixed&page-id=52%3A878&starting-point-node-id=320%3A1691&embed-host=share\" allowfullscreen></iframe>",
+      "videoUrl": "",
+      "videoPoster": "",
+      "embedCode": "<iframe style=\"border: 1px solid rgba(0, 0, 0, 0.1);\" width=\"800\" height=\"450\" src=\"https://embed.figma.com/proto/8N9KnZiAUDqNpfkyVMMoXC/Morais-City?node-id=320-1691&scaling=scale-down-width&content-scaling=fixed&page-id=52%3A878&starting-point-node-id=320%3A1691&embed-host=share\" allowfullscreen></iframe>"
+    },
+    {
+      "id": "p_1787426680002",
+      "title": "Morais Altura — High-Rise Apartment Launch Film",
+      "category": "AI Videos Projects",
+      "shortDescription": "Cinematic launch film created from just 4 reference images using an AI-assisted workflow.",
+      "summary": "Morais Altura is a high-rise residential project by Morais Group, presented through a cinematic launch film designed to showcase the project's scale, architecture, lifestyle, and key features.\n\nThe project started with just four reference images. Instead of relying on traditional production assets, I used an AI-assisted creative workflow to generate additional visual perspectives and supporting scenes, transforming limited static references into a complete promotional film.\n\nI handled the visual direction, AI image generation, scene development, AI video generation, and final editing. The goal was to create a premium real-estate film that feels visually rich and engaging while communicating the project's key selling points through cinematic storytelling.",
+      "aboutProject": "",
+      "fullDescription": "",
+      "thumbnail": "https://lh3.googleusercontent.com/d/19GsNznYLVWtJ50Uyv1TUDbjWoRU__J2T",
+      "heroMediaType": "embed",
+      "heroMediaUrl": "<iframe src=\"https://drive.google.com/file/d/1KY444srYGpzTrvHnbhDzP_519scLMJ_S/preview\" width=\"640\" height=\"480\"></iframe>",
+      "caseStudyUrl": "",
+      "caseStudyVideoUrl": "",
+      "showCaseStudyButton": false,
+      "caseStudyButtonText": "WATCH CASE STUDY",
+      "projectUrl": "",
+      "layoutStyle": "default",
+      "contentAlignment": "left",
+      "mediaDisplayMode": "all",
+      "tags": [
+        "ChatGPT",
+        "Nano Banana",
+        "Google Flow",
+        "Kling 3.0"
+      ],
+      "date": "2026",
+      "featured": true,
+      "visible": true,
+      "order": 2,
+      "accentColor": "#f59e0b",
+      "bgColor": "#1c1917",
+      "roles": [
+        "AI Creative Direction",
+        "AI Image Generation",
+        "AI Video Generation",
+        "Video Editing",
+        "Visual Quality & Consistency"
+      ],
+      "workflow": [
+        {
+          "title": "Reference Selection",
+          "icon": "idea",
+          "description": "Started with four core project images and identified the visual elements that needed to remain consistent."
+        },
+        {
+          "title": "Visual Expansion",
+          "icon": "idea",
+          "description": "Used AI to create additional perspectives, environments and supporting visuals from the limited references."
+        },
+        {
+          "title": "Scene Development",
+          "icon": "idea",
+          "description": "Planned individual shots around the project's architecture, location, lifestyle and selling points."
+        },
+        {
+          "title": "AI Video Generation",
+          "icon": "idea",
+          "description": "Converted selected stills into dynamic cinematic sequences with controlled camera movement and motion."
+        },
+        {
+          "title": "Editing & Storytelling",
+          "icon": "idea",
+          "description": "Combined the generated clips into a structured launch film with feature callouts, transitions and branding."
+        },
+        {
+          "title": "Final Refinement",
+          "icon": "idea",
+          "description": "Reviewed the complete sequence and refined the visual flow, pacing and presentation for a polished real-estate launch video."
+        }
+      ],
+      "outputs": [
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1rqcXLiLA3A-Tr-c74FeeSfc8cdCjWZYm",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1_dSVyV7jHWituK3ldf20FgZYQKKBAHPJ",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1Ogd_tbbwhKQ8pfxvBAg63E6qZBqc4HOC",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1oLw16zYllasEDtks1hEGfgAjRLrsa9WA",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1TJrKGOXW_bxyiToeSts5FmoQTWtp1irk",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1mRN2xaHZyV_GAZYE2hh71KwusygrI6_K",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1lh5x_sU86w8ovKRTF1p3XF_03RBtWUZ6",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1ZSzPJwH7V5TsX_KrTBSSUfoHTmzw2TJv",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1kmFo4YzQVPL2sn6udyLXF0gBjuDHEYNJ",
+          "title": "",
+          "caption": ""
+        }
+      ],
+      "projectImages": [
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1rqcXLiLA3A-Tr-c74FeeSfc8cdCjWZYm",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1_dSVyV7jHWituK3ldf20FgZYQKKBAHPJ",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1Ogd_tbbwhKQ8pfxvBAg63E6qZBqc4HOC",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1oLw16zYllasEDtks1hEGfgAjRLrsa9WA",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1TJrKGOXW_bxyiToeSts5FmoQTWtp1irk",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1mRN2xaHZyV_GAZYE2hh71KwusygrI6_K",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1lh5x_sU86w8ovKRTF1p3XF_03RBtWUZ6",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1ZSzPJwH7V5TsX_KrTBSSUfoHTmzw2TJv",
+          "title": "",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "https://lh3.googleusercontent.com/d/1kmFo4YzQVPL2sn6udyLXF0gBjuDHEYNJ",
+          "title": "",
+          "caption": ""
+        }
+      ],
+      "impactMetrics": [
+        {
+          "value": "4",
+          "label": "Original Reference Images",
+          "icon": "chart"
+        },
+        {
+          "value": "68 Seconds",
+          "label": "Launch Film",
+          "icon": "chart"
+        },
+        {
+          "value": "",
+          "label": "AI-Assisted Production",
+          "icon": "chart"
+        },
+        {
+          "value": "",
+          "label": "Multiple Generated Scenes",
+          "icon": "chart"
+        },
+        {
+          "value": "",
+          "label": "Image-to-Video Workflow",
+          "icon": "chart"
+        },
+        {
+          "value": "",
+          "label": "Real Estate Marketing Film",
+          "icon": "chart"
+        }
+      ],
+      "impactDescription": "With only four initial reference images, I developed a complete cinematic launch film for Morais Altura by combining AI-generated visuals, image-to-video generation and video editing.\n\nThe project demonstrates how AI can be integrated into a real creative production workflow to expand limited visual assets into a richer, more engaging marketing film.",
+      "finalVerdict": "With only four initial reference images, I developed a complete cinematic launch film for Morais Altura by combining AI-generated visuals, image-to-video generation and video editing.\n\nThe project demonstrates how AI can be integrated into a real creative production workflow to expand limited visual assets into a richer, more engaging marketing film.",
+      "heroMediaEmbedCode": "<iframe   src=\"https://player.mux.com/RCxSuOnLGtZ2v3HVfvKRzmO8rRaSVHKHu8dUAhKI01x8?metadata-video-title=Morais+Altura&video-title=Morais+Altura\"   style=\"width: 100%; border: none; aspect-ratio: 640/357;\"   allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\"   allowfullscreen ></iframe>",
+      "videoUrl": "<iframe src=\"https://drive.google.com/file/d/1KY444srYGpzTrvHnbhDzP_519scLMJ_S/preview\" width=\"640\" height=\"480\"></iframe>",
+      "videoPoster": "",
+      "embedCode": "<iframe   src=\"https://player.mux.com/RCxSuOnLGtZ2v3HVfvKRzmO8rRaSVHKHu8dUAhKI01x8?metadata-video-title=Morais+Altura&video-title=Morais+Altura\"   style=\"width: 100%; border: none; aspect-ratio: 640/357;\"   allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\"   allowfullscreen ></iframe>"
+    },
+    {
+      "id": "p_1787426680001",
+      "title": "Burj Khalifa vs Altura",
+      "category": "Video Editing Projects",
+      "shortDescription": "End-to-end real estate film from concept, script and storyboard to shoot and final edit.",
+      "summary": "Altura Dubai is a real-estate project showcase film created to present the project through a premium and engaging visual narrative. I worked across the complete video production process, starting from the initial concept and script development through storyboard planning, on-location shooting, and final post-production.\n\nThe project involved translating the project's key features and selling points into a structured visual story, planning the shots required to communicate the concept effectively, and capturing the footage during production. I then handled the editing and post-production process to bring the individual shots together into a polished final film.\n\nThe focus was on creating a visually strong real-estate video that combines clear communication with cinematic presentation, while maintaining consistency in pacing, composition, transitions, and overall brand presentation.",
+      "aboutProject": "",
+      "fullDescription": "",
+      "thumbnail": "https://lh3.googleusercontent.com/d/1-NVerGYMxDInqlvIBl2n0x7wBj3HxLp8",
+      "heroMediaType": "embed",
+      "heroMediaUrl": "",
+      "caseStudyUrl": "",
+      "caseStudyVideoUrl": "",
+      "showCaseStudyButton": false,
+      "caseStudyButtonText": "WATCH CASE STUDY",
+      "projectUrl": "",
+      "layoutStyle": "default",
+      "contentAlignment": "left",
+      "mediaDisplayMode": "all",
+      "tags": [
+        "ChatGPT · Gemini · Adobe Premiere Pro · After Effects · Photoshop"
+      ],
+      "date": "2026",
+      "featured": true,
+      "visible": true,
+      "order": 3,
+      "accentColor": "#ef4444",
+      "bgColor": "#1f1315",
+      "roles": [
+        "Creative Concept",
+        "Script Writing",
+        "Video Production / Shoot",
+        "Video Editing",
+        "Post-Production"
+      ],
+      "workflow": [
+        {
+          "title": "01 — Concept Development",
+          "icon": "idea",
+          "description": "Defined the purpose of the video, target audience, communication objectives, and overall creative direction."
+        },
+        {
+          "title": "02 — Script Development",
+          "icon": "idea",
+          "description": "Created the script and structured the narrative to communicate the project's key features in a clear and engaging way."
+        },
+        {
+          "title": "03 — Storyboard & Shot Planning",
+          "icon": "idea",
+          "description": "Translated the script into a visual sequence and planned the required shots, compositions, camera movements, and transitions."
+        },
+        {
+          "title": "04 — Production / Shoot",
+          "icon": "idea",
+          "description": "Executed the planned shoot and captured the footage according to the storyboard and visual direction."
+        },
+        {
+          "title": "05 — Editing & Post-Production",
+          "icon": "idea",
+          "description": "Selected the strongest footage, built the sequence, refined pacing, and created a cohesive visual narrative."
+        },
+        {
+          "title": "06 — Final Delivery",
+          "icon": "idea",
+          "description": "Completed the final visual polish and delivered the finished project showcase film ready for presentation and marketing use."
+        }
+      ],
+      "outputs": [],
+      "projectImages": [],
+      "impactMetrics": [],
+      "impactDescription": "This project gave me the opportunity to take complete ownership of a video production workflow — from the initial idea and script to storyboard, production, editing, and final delivery.\n\nRather than approaching the project purely as an editing task, I worked across the entire creative pipeline to ensure that the concept, visuals, shoot, and final edit worked together as one consistent story.",
+      "finalVerdict": "This project gave me the opportunity to take complete ownership of a video production workflow — from the initial idea and script to storyboard, production, editing, and final delivery.\n\nRather than approaching the project purely as an editing task, I worked across the entire creative pipeline to ensure that the concept, visuals, shoot, and final edit worked together as one consistent story.",
+      "heroMediaEmbedCode": "<iframe   width=\"560\"   height=\"315\"   src=\"https://www.youtube.com/embed/0UK8lFom8wc?controls=0&rel=0\"   title=\"YouTube video\"   frameborder=\"0\"   allow=\"autoplay; encrypted-media; picture-in-picture\"   allowfullscreen> </iframe>",
+      "videoUrl": "",
+      "videoPoster": "",
+      "embedCode": "<iframe   width=\"560\"   height=\"315\"   src=\"https://www.youtube.com/embed/0UK8lFom8wc?controls=0&rel=0\"   title=\"YouTube video\"   frameborder=\"0\"   allow=\"autoplay; encrypted-media; picture-in-picture\"   allowfullscreen> </iframe>"
+    }
+  ],
+  "skills": [
+    {
+      "icon": "Layout",
+      "category": "Design",
+      "visible": true,
+      "order": 1,
+      "id": "s1",
+      "updatedAt": {
+        "seconds": 1787426680,
+        "nanoseconds": 69000000,
+        "type": "firestore/timestamp/1.0"
+      },
+      "proficiency": 95,
+      "experience": "3 years",
+      "name": "UI/UX Design"
+    },
+    {
+      "visible": true,
+      "updatedAt": {
+        "nanoseconds": 69000000,
+        "seconds": 1787426680,
+        "type": "firestore/timestamp/1.0"
+      },
+      "icon": "Figma",
+      "order": 2,
+      "name": "Figma & Prototyping",
+      "category": "Design",
+      "id": "s2",
+      "proficiency": 92,
+      "experience": "3 Years"
+    },
+    {
+      "order": 3,
+      "icon": "Video",
+      "id": "s3",
+      "proficiency": 90,
+      "updatedAt": {
+        "nanoseconds": 69000000,
+        "type": "firestore/timestamp/1.0",
+        "seconds": 1787426680
+      },
+      "name": "AI Video Generation",
+      "category": "AI & Motion",
+      "visible": true,
+      "experience": "1.5 Years"
+    },
+    {
+      "updatedAt": {
+        "type": "firestore/timestamp/1.0",
+        "nanoseconds": 69000000,
+        "seconds": 1787426680
+      },
+      "visible": true,
+      "name": "Cinematic Video Editing",
+      "order": 4,
+      "icon": "Film",
+      "id": "s4",
+      "category": "AI & Motion",
+      "proficiency": 94,
+      "experience": "4 Years"
+    },
+    {
+      "updatedAt": {
+        "seconds": 1787426680,
+        "nanoseconds": 69000000,
+        "type": "firestore/timestamp/1.0"
+      },
+      "name": "Motion Graphics",
+      "id": "s5",
+      "proficiency": 88,
+      "visible": true,
+      "order": 5,
+      "icon": "Sparkles",
+      "category": "AI & Motion",
+      "experience": "2.5 Years"
+    },
+    {
+      "updatedAt": {
+        "nanoseconds": 69000000,
+        "type": "firestore/timestamp/1.0",
+        "seconds": 1787426680
+      },
+      "order": 6,
+      "name": "Graphic Design & Branding",
+      "category": "Creative",
+      "visible": true,
+      "icon": "Palette",
+      "proficiency": 90,
+      "id": "s6",
+      "experience": "1.5 Years"
+    },
+    {
+      "icon": "Music",
+      "updatedAt": {
+        "seconds": 1787426680,
+        "nanoseconds": 69000000,
+        "type": "firestore/timestamp/1.0"
+      },
+      "visible": true,
+      "category": "Creative",
+      "order": 8,
+      "name": "Sound Design & Sync",
+      "id": "s8",
+      "proficiency": 82,
+      "experience": "1.5 Years"
+    }
+  ],
+  "contact": {
+    "email": "itsjstvicky@gmail.com",
+    "phone": "+91 98765 43210",
+    "location": "Vadavanpatti, Tamil Nadu, India",
+    "instagram": "https://instagram.com",
+    "linkedin": "https://linkedin.com",
+    "behance": "https://behance.net",
+    "dribbble": "https://dribbble.com",
+    "youtube": "https://youtube.com",
+    "github": "https://github.com",
+    "twitter": "https://x.com",
+    "updatedAt": {
+      "seconds": 1787425690,
+      "nanoseconds": 115000000,
+      "type": "firestore/timestamp/1.0"
+    }
+  },
+  "desktopIcons": [
+    {
+      "iconPreset": "custom",
+      "destinationType": "existingWindow",
+      "order": 1,
+      "createdAt": "2026-05-01T00:00:00.000Z",
+      "destination": "portfolio",
+      "iconName": "MY PORTFOLIO",
+      "targetUrl": "",
+      "positionY": 24,
+      "iconImage": "data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDU3NiA1NzYiIHdpZHRoPSI1NzYiIGhlaWdodD0iNTc2Ij4KCTxzdHlsZT4KCQkuczAgeyBmaWxsOiAjMDBhOTlkIH0gCgkJLnMxIHsgZmlsbDogIzFhMWExYSB9IAoJCS5zMiB7IGZpbGw6ICMwMGZmZTYgfSAKCTwvc3R5bGU+Cgk8ZyBpZD0iTGF5ZXIgMSI+CgkJPGcgaWQ9IiZsdDtHcm91cCZndDsiPgoJCQk8cGF0aCBpZD0iJmx0O0NvbXBvdW5kIFBhdGgmZ3Q7IiBjbGFzcz0iczAiIGQ9Im0zMC41MyAxODQuMzZsMi4xMy0wLjY3YzEwLjc1LTMuMzMgMjIuNDYtMC4yMSAzMC4xMSA4LjA1bDc0Ljg1IDgwLjc3YzE2LjY5IDE4LjAxIDQ2LjgxIDguNjYgNTAuMzYtMTUuNjVsMTUuODktMTA4Ljk2YzEuNjMtMTEuMTMgOS41MS0yMC4zNSAyMC4yNS0yMy42OWwyLjE0LTAuNjZjMjAuNTItNi4zOCA0MC42NyAxMC44MiAzNy42IDMyLjA4bC0zNC4wMSAyMzUuOTJjLTMuNTEgMjQuMzYtMzMuNzEgMzMuNzQtNTAuNCAxNS42NmwtMTYxLjcyLTE3NS4xMWMtMTQuNTgtMTUuNzgtNy43Mi00MS4zNyAxMi44LTQ3Ljc0eiIvPgoJCTwvZz4KCQk8ZyBpZD0iJmx0O0dyb3VwJmd0OyI+CgkJCTxwYXRoIGlkPSImbHQ7Q29tcG91bmQgUGF0aCZndDsiIGNsYXNzPSJzMCIgZD0ibTMxNS4zNSAzNjMuODdsLTEyLjQgODcuMjFjLTAuOTUgNi43MS03LjE2IDExLjM3LTEzLjg3IDEwLjQybC00Mi43Ni02LjA4Yy02LjcxLTAuOTUtMTEuMzgtNy4xNy0xMC40Mi0xMy44OGw0Ni41LTMyNy4wOGMwLjUtMy41NSAyLjU0LTYuNzEgNS41Ny04LjYzbDQ3Ljk1LTMwLjQyYzguODQtNS42MSAyMC4yIDEuNzIgMTguNzIgMTIuMDlsLTE4LjUyIDEzMC4yNWMtMS40MSA5Ljk2IDkuMSAxNy4zIDE3Ljk3IDEyLjU0bDE1Ny43NS04NC44MWMzLjc2LTIuMDIgOC4zLTEuOTUgMTEuOTkgMC4ybDM2LjExIDIxLjAyYzguMyA0LjgzIDguMDkgMTYuODgtMC4zNyAyMS40MmwtMTg1LjU4IDk5LjU2Yy03LjMgMy45MS04LjcgMTMuNzktMi43OSAxOS41OGwxNzEuNSAxNjcuOTFjOC40OCA4LjI5IDEuNDMgMjIuNTktMTAuMzEgMjAuOTJsLTU5LjUzLTguNDZjLTIuNTktMC4zNy01LTEuNTYtNi44Ny0zLjM5bC0xMjkuODktMTI3LjQxYy03LjE5LTcuMDQtMTkuMzMtMi45Mi0yMC43NSA3LjA0eiIvPgoJCTwvZz4KCTwvZz4KCTxnIGlkPSJMYXllciAyIj4KCQk8cGF0aCBpZD0iJmx0O1BhdGgmZ3Q7IiBjbGFzcz0iczEiIGQ9Im02My42NiAyNzMuMjdsLTQxLjQyLTQzLjg4Yy05LjQyLTkuOTgtOC45Ny0yNS43MSAxLjAxLTM1LjEzIDkuOTgtOS40MiAyNS43MS04Ljk3IDM1LjEzIDEuMDFsNDEuNDIgNDMuODhjOS40MiA5Ljk4IDguOTcgMjUuNzEtMS4wMSAzNS4xMy05Ljk4IDkuNDItMjUuNzEgOC45Ny0zNS4xMy0xLjAxeiIvPgoJPC9nPgoJPGcgaWQ9IkxheWVyIDMiPgoJCTxwYXRoIGlkPSJnIDAwMDAwMDQ0MTU5MjM0OTQ2Njk5MjQzOTYwMDAwMDAzNzgzODMwNjYyNjU0MDUwMjMyICIgY2xhc3M9InMyIiBkPSJtMTAyLjM5IDI2NC4zYy00LjU3IDExLjIxLTE3LjM2IDE2LjYxLTI4LjU3IDEyLjA1LTExLjIyLTQuNTYtMTYuNjEtMTcuMzUtMTIuMDUtMjguNTcgNC41Ni0xMS4yMiAxNy4zNS0xNi42MSAyOC41Ni0xMi4wNSAxMS4yMiA0LjU2IDE2LjYyIDE3LjM1IDEyLjA2IDI4LjU3eiIvPgoJPC9nPgo8L3N2Zz4=",
+      "targetProjectId": "",
+      "updatedAt": "2026-09-07T15:36:03.772Z",
+      "positionX": 24,
+      "openBehavior": "sameWindow",
+      "openMode": "sameWindow",
+      "name": "MY PORTFOLIO",
+      "iconType": "custom",
+      "actionType": "existingWindow",
+      "id": "icon-1",
+      "visible": true,
+      "customIconUrl": "data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDU3NiA1NzYiIHdpZHRoPSI1NzYiIGhlaWdodD0iNTc2Ij4KCTxzdHlsZT4KCQkuczAgeyBmaWxsOiAjMDBhOTlkIH0gCgkJLnMxIHsgZmlsbDogIzFhMWExYSB9IAoJCS5zMiB7IGZpbGw6ICMwMGZmZTYgfSAKCTwvc3R5bGU+Cgk8ZyBpZD0iTGF5ZXIgMSI+CgkJPGcgaWQ9IiZsdDtHcm91cCZndDsiPgoJCQk8cGF0aCBpZD0iJmx0O0NvbXBvdW5kIFBhdGgmZ3Q7IiBjbGFzcz0iczAiIGQ9Im0zMC41MyAxODQuMzZsMi4xMy0wLjY3YzEwLjc1LTMuMzMgMjIuNDYtMC4yMSAzMC4xMSA4LjA1bDc0Ljg1IDgwLjc3YzE2LjY5IDE4LjAxIDQ2LjgxIDguNjYgNTAuMzYtMTUuNjVsMTUuODktMTA4Ljk2YzEuNjMtMTEuMTMgOS41MS0yMC4zNSAyMC4yNS0yMy42OWwyLjE0LTAuNjZjMjAuNTItNi4zOCA0MC42NyAxMC44MiAzNy42IDMyLjA4bC0zNC4wMSAyMzUuOTJjLTMuNTEgMjQuMzYtMzMuNzEgMzMuNzQtNTAuNCAxNS42NmwtMTYxLjcyLTE3NS4xMWMtMTQuNTgtMTUuNzgtNy43Mi00MS4zNyAxMi44LTQ3Ljc0eiIvPgoJCTwvZz4KCQk8ZyBpZD0iJmx0O0dyb3VwJmd0OyI+CgkJCTxwYXRoIGlkPSImbHQ7Q29tcG91bmQgUGF0aCZndDsiIGNsYXNzPSJzMCIgZD0ibTMxNS4zNSAzNjMuODdsLTEyLjQgODcuMjFjLTAuOTUgNi43MS03LjE2IDExLjM3LTEzLjg3IDEwLjQybC00Mi43Ni02LjA4Yy02LjcxLTAuOTUtMTEuMzgtNy4xNy0xMC40Mi0xMy44OGw0Ni41LTMyNy4wOGMwLjUtMy41NSAyLjU0LTYuNzEgNS41Ny04LjYzbDQ3Ljk1LTMwLjQyYzguODQtNS42MSAyMC4yIDEuNzIgMTguNzIgMTIuMDlsLTE4LjUyIDEzMC4yNWMtMS40MSA5Ljk2IDkuMSAxNy4zIDE3Ljk3IDEyLjU0bDE1Ny43NS04NC44MWMzLjc2LTIuMDIgOC4zLTEuOTUgMTEuOTkgMC4ybDM2LjExIDIxLjAyYzguMyA0LjgzIDguMDkgMTYuODgtMC4zNyAyMS40MmwtMTg1LjU4IDk5LjU2Yy03LjMgMy45MS04LjcgMTMuNzktMi43OSAxOS41OGwxNzEuNSAxNjcuOTFjOC40OCA4LjI5IDEuNDMgMjIuNTktMTAuMzEgMjAuOTJsLTU5LjUzLTguNDZjLTIuNTktMC4zNy01LTEuNTYtNi44Ny0zLjM5bC0xMjkuODktMTI3LjQxYy03LjE5LTcuMDQtMTkuMzMtMi45Mi0yMC43NSA3LjA0eiIvPgoJCTwvZz4KCTwvZz4KCTxnIGlkPSJMYXllciAyIj4KCQk8cGF0aCBpZD0iJmx0O1BhdGgmZ3Q7IiBjbGFzcz0iczEiIGQ9Im02My42NiAyNzMuMjdsLTQxLjQyLTQzLjg4Yy05LjQyLTkuOTgtOC45Ny0yNS43MSAxLjAxLTM1LjEzIDkuOTgtOS40MiAyNS43MS04Ljk3IDM1LjEzIDEuMDFsNDEuNDIgNDMuODhjOS40MiA5Ljk4IDguOTcgMjUuNzEtMS4wMSAzNS4xMy05Ljk4IDkuNDItMjUuNzEgOC45Ny0zNS4xMy0xLjAxeiIvPgoJPC9nPgoJPGcgaWQ9IkxheWVyIDMiPgoJCTxwYXRoIGlkPSJnIDAwMDAwMDQ0MTU5MjM0OTQ2Njk5MjQzOTYwMDAwMDAzNzgzODMwNjYyNjU0MDUwMjMyICIgY2xhc3M9InMyIiBkPSJtMTAyLjM5IDI2NC4zYy00LjU3IDExLjIxLTE3LjM2IDE2LjYxLTI4LjU3IDEyLjA1LTExLjIyLTQuNTYtMTYuNjEtMTcuMzUtMTIuMDUtMjguNTcgNC41Ni0xMS4yMiAxNy4zNS0xNi42MSAyOC41Ni0xMi4wNSAxMS4yMiA0LjU2IDE2LjYyIDE3LjM1IDEyLjA2IDI4LjU3eiIvPgoJPC9nPgo8L3N2Zz4=",
+      "targetWindowId": "portfolio",
+      "executableName": "Portfolio.exe"
+    },
+    {
+      "openBehavior": "sameWindow",
+      "visible": true,
+      "destinationType": "existingWindow",
+      "executableName": "About Me.exe",
+      "positionX": 24,
+      "iconImage": "about",
+      "positionY": 104,
+      "order": 2,
+      "id": "icon-2",
+      "updatedAt": "2026-05-01T00:00:00.000Z",
+      "destination": "about",
+      "iconName": "ABOUT ME",
+      "createdAt": "2026-05-01T00:00:00.000Z"
+    },
+    {
+      "openBehavior": "sameWindow",
+      "id": "icon-3",
+      "updatedAt": "2026-05-01T00:00:00.000Z",
+      "iconImage": "skills",
+      "positionY": 184,
+      "executableName": "My Skills.exe",
+      "createdAt": "2026-05-01T00:00:00.000Z",
+      "iconName": "MY SKILLS",
+      "visible": true,
+      "destination": "skills",
+      "destinationType": "existingWindow",
+      "positionX": 24,
+      "order": 3
+    },
+    {
+      "destinationType": "existingWindow",
+      "id": "icon-4",
+      "positionX": 24,
+      "destination": "projects",
+      "iconName": "PROJECTS",
+      "visible": true,
+      "executableName": "Projects.exe",
+      "createdAt": "2026-05-01T00:00:00.000Z",
+      "openBehavior": "sameWindow",
+      "order": 4,
+      "updatedAt": "2026-05-01T00:00:00.000Z",
+      "positionY": 264,
+      "iconImage": "projects"
+    },
+    {
+      "order": 5,
+      "iconName": "CONTACTS",
+      "positionX": 24,
+      "visible": true,
+      "destination": "contact",
+      "createdAt": "2026-05-01T00:00:00.000Z",
+      "id": "icon-5",
+      "updatedAt": "2026-05-01T00:00:00.000Z",
+      "executableName": "Contacts.exe",
+      "destinationType": "existingWindow",
+      "positionY": 344,
+      "iconImage": "contact",
+      "openBehavior": "sameWindow"
+    },
+    {
+      "order": 6,
+      "visible": true,
+      "openBehavior": "sameWindow",
+      "positionX": 24,
+      "iconImage": "experience",
+      "positionY": 424,
+      "updatedAt": "2026-05-01T00:00:00.000Z",
+      "executableName": "My Experience.exe",
+      "destination": "experience",
+      "createdAt": "2026-05-01T00:00:00.000Z",
+      "destinationType": "existingWindow",
+      "iconName": "MY EXPERIENCE",
+      "id": "icon-6"
+    }
+  ],
+  "experiences": [
+    {
+      "description": "Leading interface design systems, user experience architecture, and cutting-edge generative AI video pipelines for global creative clients.",
+      "responsibilities": [
+        "Spearhead end-to-end UX/UI designs for web, mobile apps, and design token libraries.",
+        "Direct generative AI video workflows using Runway Gen-3, Midjourney, and Kling.",
+        "Collaborate directly with product and engineering teams for pixel-perfect handoffs."
+      ],
+      "updatedAt": "2026-09-10T06:08:43.495Z",
+      "order": 1,
+      "createdAt": "2026-01-10T00:00:00.000Z",
+      "achievements": [
+        "Boosted user conversion rates by 42% on core product redesigns",
+        "Reduced video production cycles by 60% with AI-assisted post pipelines"
+      ],
+      "startDate": "Sept 2025",
+      "companyLogo": "",
+      "role": "Senior Designer",
+      "projects": [
+        "Enterprise Design System v3",
+        "AI-driven Marketing Campaign Videos"
+      ],
+      "endDate": "Sept 2026",
+      "currentPosition": false,
+      "id": "exp-1",
+      "visible": true,
+      "companyName": "Morais Group"
+    },
+    {
+      "visible": true,
+      "createdAt": "2026-01-10T00:00:00.000Z",
+      "companyName": "ALD Properties",
+      "endDate": "2025",
+      "order": 2,
+      "updatedAt": "2026-09-10T06:09:12.143Z",
+      "companyLogo": "",
+      "responsibilities": [
+        "Created responsive Figma wireframes, mockups, and interactive motion prototypes.",
+        "Edited promotional teasers and brand commercials in Premiere Pro & After Effects.",
+        "Maintained consistent visual brand identity across digital touchpoints."
+      ],
+      "achievements": [
+        "Authored 25+ client product design systems with 100% on-time delivery",
+        "Featured on Dribbble & Behance UI design curated galleries"
+      ],
+      "role": "Video Editor & Designer",
+      "id": "exp-2",
+      "projects": [
+        "FinTech Dashboard App",
+        "SaaS Product Launch Showreel"
+      ],
+      "currentPosition": false,
+      "startDate": "2024",
+      "description": "Designed high-conversion interactive prototypes, landing experiences, and edited cinematic video content for modern tech startups."
+    },
+    {
+      "visible": true,
+      "endDate": "2023",
+      "role": "Process Associate (Porperty Tax)",
+      "startDate": "2022",
+      "projects": [
+        "E-commerce Mobile App UI",
+        "YouTube Creator Brand Package"
+      ],
+      "id": "exp-3",
+      "achievements": [
+        "Successfully delivered 40+ client projects with 5-star feedback rating"
+      ],
+      "order": 3,
+      "companyName": "Pathfinder Business Analysis",
+      "responsibilities": [
+        "Conducted user research, wireframing, and usability testing.",
+        "Produced YouTube content packages, reels, and kinetic typography animations."
+      ],
+      "companyLogo": "",
+      "updatedAt": "2026-09-10T11:00:59.758Z",
+      "description": "Delivered bespoke UI/UX designs, brand identity systems, and post-production video editing for clients across India and internationally.",
+      "currentPosition": false,
+      "createdAt": "2026-01-10T00:00:00.000Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1789019846236",
+      "name": "Arast ",
+      "email": "editing.aaruthran@gmail.com",
+      "message": "Test spet 10 - 3",
+      "date": "2026-09-10T05:57:26.236Z",
+      "read": false
+    },
+    {
+      "id": "msg_1789019338809",
+      "name": "Arabian ",
+      "email": "vigneshwaranmech56@gmail.com",
+      "message": "Test sept 10 - 2",
+      "date": "2026-09-10T05:48:58.809Z",
+      "read": false
+    },
+    {
+      "id": "msg_1789019311300",
+      "name": "Vigneshwaran ",
+      "email": "itsjstvicky@gmail.com",
+      "message": "Test sept 10",
+      "date": "2026-09-10T05:48:31.300Z",
+      "read": false
+    },
+    {
+      "id": "m1",
+      "name": "Alex Rivera",
+      "email": "alex.rivera@designstudio.com",
+      "message": "Hey Vignesh! Loved your AI Video portfolio. Let's discuss a creative collaboration.",
+      "date": "2026-05-10T14:30:00.000Z",
+      "read": true
+    }
+  ],
+  "taskbarIcons": [
+    {
+      "visible": true,
+      "name": "Portfolio (Task View)",
+      "createdAt": "2026-05-01T00:00:00.000Z",
+      "id": "tb-1",
+      "destinationType": "existingWindow",
+      "openBehavior": "sameWindow",
+      "order": 1,
+      "updatedAt": "2026-05-01T00:00:00.000Z",
+      "destination": "portfolio",
+      "iconImage": "taskview"
+    },
+    {
+      "order": 2,
+      "destinationType": "existingWindow",
+      "createdAt": "2026-05-01T00:00:00.000Z",
+      "updatedAt": "2026-05-01T00:00:00.000Z",
+      "openBehavior": "sameWindow",
+      "iconImage": "explorer",
+      "destination": "projects",
+      "visible": true,
+      "name": "File Explorer (Projects)",
+      "id": "tb-2"
+    }
+  ],
+  "taskbarSettings": {
+    "layout": {
+      "layoutPreset": "dock_center",
+      "startButtonPosition": "center",
+      "searchBarPosition": "center",
+      "weatherWidgetPosition": "left",
+      "pinnedAppsPosition": "center",
+      "systemTrayPosition": "right",
+      "clockPosition": "right"
+    },
+    "left": {
+      "showStartButton": true,
+      "startIconStyle": "windows11",
+      "startIconCustomUrl": "",
+      "startTooltip": "Start Menu",
+      "showSearchBar": true,
+      "searchPlaceholder": "Search",
+      "searchStyle": "capsule",
+      "searchIconColor": "#38bdf8",
+      "showWeatherWidget": true,
+      "weatherLocationOverride": "",
+      "weatherDisplayMode": "full",
+      "tempUnit": "celsius",
+      "customWeatherBadge": "LIVE"
+    },
+    "right": {
+      "showWifi": false,
+      "wifiLabel": "Connected (Fiber 1Gbps)",
+      "wifiStatus": "connected",
+      "showVolume": false,
+      "defaultVolume": 100,
+      "volumeLabel": "100%",
+      "showBattery": false,
+      "batteryPercentage": 100,
+      "batteryStatus": "charging",
+      "batteryLabel": "100%",
+      "showClock": true,
+      "clockMode": "realtime",
+      "customTimeStr": "10:30 AM",
+      "timeFormat": "12h",
+      "showSeconds": false,
+      "showDate": true,
+      "dateFormat": "MM/DD/YYYY",
+      "customDateStr": "11/05/2026",
+      "showLocationSubtitle": true,
+      "locationSubtitleText": "Trichy, IN",
+      "showTrayChevron": true,
+      "trayTitle": "SYSTEM CONTROLS",
+      "traySubtitle": "8-Bit Mode",
+      "powerPlanName": "High Performance"
+    },
+    "mobile": {
+      "showStartButton": true,
+      "showSearchBar": true,
+      "searchStyle": "compactIcon",
+      "searchPlaceholder": "Search",
+      "showWeatherWidget": false,
+      "weatherDisplayMode": "iconOnly",
+      "showPinnedApps": true,
+      "maxPinnedAppsCount": 4,
+      "showSystemTray": false,
+      "showClock": true,
+      "showLocationSubtitle": true,
+      "taskbarHeight": 48,
+      "taskbarLayout": "center",
+      "iconSize": 20
+    },
+    "tablet": {
+      "showStartButton": true,
+      "showSearchBar": true,
+      "searchStyle": "pill",
+      "searchPlaceholder": "Search",
+      "showWeatherWidget": true,
+      "weatherDisplayMode": "tempOnly",
+      "showPinnedApps": true,
+      "maxPinnedAppsCount": 6,
+      "showSystemTray": true,
+      "showClock": true,
+      "showLocationSubtitle": true,
+      "taskbarHeight": 48,
+      "taskbarLayout": "win11",
+      "iconSize": 22
+    },
+    "startMenu": {
+      "layout": "center",
+      "theme": "pixelRetro",
+      "width": 600,
+      "showSearchBar": true,
+      "searchPlaceholder": "Type here to search...",
+      "headerTitle": "Pinned",
+      "allAppsButtonText": "All apps",
+      "userName": "Vignesh",
+      "userTagline": "creator@portfolio.exe",
+      "userAvatarUrl": "https://lh3.googleusercontent.com/d/13mIrGGgehXGJkY_IrSN4kuoieSQ-4BcC",
+      "userAvatarStyle": "customImage",
+      "showPinnedSection": true,
+      "showRecommendedSection": false,
+      "recommendedSectionTitle": "Recommended",
+      "showPowerButton": false,
+      "showSleepOption": false,
+      "showRestartOption": false,
+      "showLockOption": false,
+      "showAdminOption": false,
+      "pinnedApps": [
+        {
+          "id": "pin-portfolio",
+          "destinationType": "existingWindow",
+          "visible": true,
+          "destination": "portfolio",
+          "iconImage": "portfolio",
+          "name": "Portfolio Desk",
+          "category": "Core",
+          "order": 1
+        },
+        {
+          "id": "pin-about",
+          "destinationType": "existingWindow",
+          "category": "Core",
+          "destination": "about",
+          "visible": true,
+          "iconImage": "about",
+          "order": 2,
+          "name": "About Me"
+        },
+        {
+          "id": "pin-contact",
+          "destination": "contact",
+          "iconImage": "contact",
+          "destinationType": "existingWindow",
+          "category": "Social",
+          "order": 3,
+          "name": "Contact & Hire",
+          "visible": true
+        },
+        {
+          "visible": true,
+          "destination": "p1",
+          "order": 4,
+          "badge": "Featured",
+          "name": "UX/UI Case Study",
+          "category": "Creative",
+          "id": "pin-ux-project",
+          "destinationType": "project",
+          "iconImage": "paint"
+        },
+        {
+          "category": "Creative",
+          "destinationType": "project",
+          "id": "pin-ai-video",
+          "order": 5,
+          "name": "AI Video Cinema",
+          "iconImage": "video",
+          "visible": true,
+          "badge": "Hot",
+          "destination": "p2"
+        },
+        {
+          "name": "Video Editing",
+          "id": "pin-video-edit",
+          "visible": true,
+          "iconImage": "terminal",
+          "destinationType": "project",
+          "order": 6,
+          "destination": "p3",
+          "category": "Creative"
+        },
+        {
+          "destination": "skills",
+          "category": "Technical",
+          "id": "pin-skills",
+          "name": "Skills & Stack",
+          "iconImage": "skills",
+          "order": 7,
+          "destinationType": "existingWindow",
+          "visible": true
+        },
+        {
+          "destinationType": "existingWindow",
+          "destination": "experience",
+          "visible": true,
+          "category": "Career",
+          "id": "pin-experience",
+          "iconImage": "experience",
+          "order": 8,
+          "name": "Experience"
+        }
+      ],
+      "recommendedItems": [
+        {
+          "title": "Cyberpunk UI Redesign Case Study",
+          "visible": true,
+          "destinationType": "project",
+          "timestamp": "Featured Project",
+          "iconImage": "projects",
+          "id": "rec-1",
+          "destination": "p1",
+          "subtitle": "UX/UI Design Portfolio"
+        },
+        {
+          "destinationType": "project",
+          "iconImage": "video",
+          "subtitle": "Midjourney & Runway Gen-3",
+          "title": "AI Video Generation Cinema Reel",
+          "timestamp": "2 hours ago",
+          "id": "rec-2",
+          "visible": true,
+          "destination": "p2"
+        },
+        {
+          "timestamp": "Cloud Connected",
+          "visible": true,
+          "iconImage": "googleDrive",
+          "subtitle": "Real-time Google OAuth Connected",
+          "destinationType": "existingWindow",
+          "id": "rec-3",
+          "destination": "googleDrive",
+          "title": "Google Drive Cloud Asset Sync"
+        },
+        {
+          "timestamp": "Updated Today",
+          "title": "Resume & Verified Credentials",
+          "visible": true,
+          "destination": "about",
+          "iconImage": "about",
+          "destinationType": "existingWindow",
+          "id": "rec-4",
+          "subtitle": "PDF Document Download"
+        }
+      ]
+    }
+  },
+  "wallpaperConfig": {
+    "wallpapers": {
+      "rainy_mobile": {
+        "url": "https://lh3.googleusercontent.com/d/1UVP56y6YIMy6HakFpuc8E3HJQSGWVevN",
+        "fileName": "rainy_mobile_Rainy Tab.png",
+        "fileSize": "2016.0 KB (Drive)",
+        "updatedAt": "2026-09-07T16:15:57.102Z",
+        "driveFileId": "1UVP56y6YIMy6HakFpuc8E3HJQSGWVevN"
+      },
+      "cloudy_mobile": {
+        "url": "https://lh3.googleusercontent.com/d/1Z7WkET4WJxgQAfzPlfBsKSnxdS0cosbN",
+        "fileName": "cloudy_mobile_Cloud Mobile.png",
+        "fileSize": "1702.3 KB (Drive)",
+        "updatedAt": "2026-09-07T16:16:46.016Z",
+        "driveFileId": "1Z7WkET4WJxgQAfzPlfBsKSnxdS0cosbN"
+      },
+      "cloudy_tablet": {
+        "url": "https://lh3.googleusercontent.com/d/1edcv_X5O4P6rJcPkGqoJEdU_mn3zsuzX",
+        "fileName": "cloudy_tablet_Cloud Tab.png",
+        "fileSize": "1871.4 KB (Drive)",
+        "updatedAt": "2026-09-07T16:16:33.739Z",
+        "driveFileId": "1edcv_X5O4P6rJcPkGqoJEdU_mn3zsuzX"
+      },
+      "cloudy_desktop": {
+        "url": "https://lh3.googleusercontent.com/d/1JF6nPyIddqo9IFSRMEvR3nnilRFHUm4q",
+        "fileName": "cloudy_desktop_Cloud Desktop.png",
+        "fileSize": "1863.4 KB (Drive)",
+        "updatedAt": "2026-09-07T16:16:20.356Z",
+        "driveFileId": "1JF6nPyIddqo9IFSRMEvR3nnilRFHUm4q"
+      },
+      "rainy_tablet": {
+        "url": "https://lh3.googleusercontent.com/d/1o_StMi1Ac6kQcDaYsd0Fs9sD-ZEP3YG0",
+        "fileName": "rainy_tablet_Rainy Tab.png",
+        "fileSize": "2016.0 KB (Drive)",
+        "updatedAt": "2026-09-07T16:15:43.880Z",
+        "driveFileId": "1o_StMi1Ac6kQcDaYsd0Fs9sD-ZEP3YG0"
+      },
+      "rainy_desktop": {
+        "url": "https://lh3.googleusercontent.com/d/1isK7uaSpAiqxJ6YCgp1vRTSF5Z3v1rnr",
+        "fileName": "rainy_desktop_Rainy Desktop.png",
+        "fileSize": "1978.0 KB (Drive)",
+        "updatedAt": "2026-09-07T16:15:29.781Z",
+        "driveFileId": "1isK7uaSpAiqxJ6YCgp1vRTSF5Z3v1rnr"
+      },
+      "night_rainy_mobile": {
+        "url": "https://lh3.googleusercontent.com/d/1hXRaBw-pKFHoHlE-vDaEbM40WbMf4ZQZ",
+        "fileName": "night_rainy_mobile_Night Rainy Mobile.png",
+        "fileSize": "1801.5 KB (Drive)",
+        "updatedAt": "2026-09-07T16:15:06.538Z",
+        "driveFileId": "1hXRaBw-pKFHoHlE-vDaEbM40WbMf4ZQZ"
+      },
+      "night_rainy_tablet": {
+        "url": "https://lh3.googleusercontent.com/d/1zCuHUflGLDtpYAD7tx_RVRhfY31QfksP",
+        "fileName": "night_rainy_tablet_Night Rainy Tab.png",
+        "fileSize": "1933.5 KB (Drive)",
+        "updatedAt": "2026-09-07T16:14:51.268Z",
+        "driveFileId": "1zCuHUflGLDtpYAD7tx_RVRhfY31QfksP"
+      },
+      "night_rainy_desktop": {
+        "url": "https://lh3.googleusercontent.com/d/1pIgcoJLe7Tps9k7ZqfCR8kLis0m2QvbC",
+        "fileName": "night_rainy_desktop_Night Rainy Desktop.png",
+        "fileSize": "1941.7 KB (Drive)",
+        "updatedAt": "2026-09-07T16:14:34.798Z",
+        "driveFileId": "1pIgcoJLe7Tps9k7ZqfCR8kLis0m2QvbC"
+      },
+      "evening_mobile": {
+        "url": "https://lh3.googleusercontent.com/d/1t-xqI4PYJJk3ZBNRJud-fafrmVBdnVjF",
+        "fileName": "evening_mobile_Evening Mobile.png",
+        "fileSize": "1766.7 KB (Drive)",
+        "updatedAt": "2026-09-07T16:13:59.551Z",
+        "driveFileId": "1t-xqI4PYJJk3ZBNRJud-fafrmVBdnVjF"
+      },
+      "evening_tablet": {
+        "url": "https://lh3.googleusercontent.com/d/1k81-GQDWEd2tpIHWOFuc2zQcS5Tp4iPP",
+        "fileName": "evening_tablet_Evening Tab.png",
+        "fileSize": "1927.5 KB (Drive)",
+        "updatedAt": "2026-09-07T16:13:46.631Z",
+        "driveFileId": "1k81-GQDWEd2tpIHWOFuc2zQcS5Tp4iPP"
+      },
+      "evening_desktop": {
+        "url": "https://lh3.googleusercontent.com/d/1GK-H6lzuaiOEzEfjVaS6KXNF7fy5xYFU",
+        "fileName": "evening_desktop_Evening Desktop.png",
+        "fileSize": "1866.4 KB (Drive)",
+        "updatedAt": "2026-09-07T16:13:31.881Z",
+        "driveFileId": "1GK-H6lzuaiOEzEfjVaS6KXNF7fy5xYFU"
+      },
+      "early_morning_mobile": {
+        "url": "https://lh3.googleusercontent.com/d/1uJEL0Q4ASbbKkIyTJJ_ISBXe6x1_3YS8",
+        "fileName": "early_morning_mobile_Early morning Mobile.png",
+        "fileSize": "1843.2 KB (Drive)",
+        "updatedAt": "2026-09-07T16:13:11.019Z",
+        "driveFileId": "1uJEL0Q4ASbbKkIyTJJ_ISBXe6x1_3YS8"
+      },
+      "early_morning_tablet": {
+        "url": "https://lh3.googleusercontent.com/d/1bzk1q6pV2g1EjnQHpYxwo9Xr2u98XWNv",
+        "fileName": "early_morning_tablet_Early morning Tab.png",
+        "fileSize": "2083.5 KB (Drive)",
+        "updatedAt": "2026-09-07T16:12:53.303Z",
+        "driveFileId": "1bzk1q6pV2g1EjnQHpYxwo9Xr2u98XWNv"
+      },
+      "early_morning_desktop": {
+        "url": "https://lh3.googleusercontent.com/d/1xh-Lx7_pKY9UpgXG-kVoty8iAZ81sOmR",
+        "fileName": "early_morning_desktop_Early morning Desktop.png",
+        "fileSize": "2024.5 KB (Drive)",
+        "updatedAt": "2026-09-07T16:12:34.380Z",
+        "driveFileId": "1xh-Lx7_pKY9UpgXG-kVoty8iAZ81sOmR"
+      },
+      "sunny_mobile": {
+        "url": "https://lh3.googleusercontent.com/d/1kO63CDcXSw-rk-lpLhVzqejv42LE8xgJ",
+        "fileName": "sunny_mobile_Daytime Mobile.png",
+        "fileSize": "1840.4 KB (Drive)",
+        "updatedAt": "2026-09-07T15:55:11.103Z",
+        "driveFileId": "1kO63CDcXSw-rk-lpLhVzqejv42LE8xgJ"
+      },
+      "sunny_tablet": {
+        "url": "https://lh3.googleusercontent.com/d/1ZMm0uGEdgNGzxiEkvKKUZyeTrH_3POq2",
+        "fileName": "sunny_tablet_Daytime Tab.png",
+        "fileSize": "1935.7 KB (Drive)",
+        "updatedAt": "2026-09-07T15:54:33.656Z",
+        "driveFileId": "1ZMm0uGEdgNGzxiEkvKKUZyeTrH_3POq2"
+      },
+      "sunny_desktop": {
+        "url": "https://lh3.googleusercontent.com/d/169MQVAsVQQBu90isF0AeTvlakRP2E7GC",
+        "fileName": "sunny_desktop_Daytime desktop.png",
+        "fileSize": "1953.4 KB (Drive)",
+        "updatedAt": "2026-09-07T15:54:07.975Z",
+        "driveFileId": "169MQVAsVQQBu90isF0AeTvlakRP2E7GC"
+      },
+      "night_mobile": {
+        "url": "https://lh3.googleusercontent.com/d/1M8BnoWiIcmkDQZxr-CtpdidzJzfR0vWA",
+        "fileName": "night_mobile_Night mobile.jpeg",
+        "fileSize": "101.4 KB (Drive)",
+        "updatedAt": "2026-09-07T15:53:19.958Z",
+        "driveFileId": "1M8BnoWiIcmkDQZxr-CtpdidzJzfR0vWA"
+      },
+      "night_tablet": {
+        "url": "https://lh3.googleusercontent.com/d/1TIvAkSBAObunK1TgjLE_jRHVQwAIzFsB",
+        "fileName": "night_tablet_Night Tab.png",
+        "fileSize": "1687.6 KB (Drive)",
+        "updatedAt": "2026-09-07T15:47:24.837Z",
+        "driveFileId": "1TIvAkSBAObunK1TgjLE_jRHVQwAIzFsB"
+      },
+      "night_desktop": {
+        "url": "https://lh3.googleusercontent.com/d/1Q6ceEwzTF6i4XnomJ8D1XAhQ40_e5yt6",
+        "fileName": "night_desktop_Night Desktop.png",
+        "fileSize": "1495.6 KB (Drive)",
+        "updatedAt": "2026-09-07T15:28:33.515Z",
+        "driveFileId": "1Q6ceEwzTF6i4XnomJ8D1XAhQ40_e5yt6"
+      }
+    },
+    "fallbackUrl": "https://lh3.googleusercontent.com/d/169MQVAsVQQBu90isF0AeTvlakRP2E7GC",
+    "fallbackFileName": "sunny_desktop_Daytime desktop.png",
+    "fallbackLocation": {
+      "city": "Tiruchirappalli, India",
+      "lat": 10.747,
+      "lon": 78.715
+    },
+    "autoMode": true,
+    "manualCategory": "sunny",
+    "manualDevice": "desktop"
+  },
+  "googleDriveSession": {
+    "isConnected": true,
+    "accessToken": "ya29.a0AdMD6EjGv38mQ7GoeShtGhLeY4xepU1bs7HEj5iaTyEqONyQvvLlm_EIpXe3Ftzu3HfrggOQLe2qkTiArlMvti-faY9qFK932uxJYA3HMWGZO9YKf37DmFoAD9WFDvrlQbdX8UOLFit4JT7opN44CeC5rdg1Nlilvlgd8fyzEBj3iw8HStGurp2zMSsXaA_R2P32JoNMcVCJPbNWim2aFnK-RSWTA9Px-G1xavRa-Oa0CcXMDR5_nq-OPBS0T4vVk4MiOG-43V-RxL-knOuGv5AL97IaCgYKATMSARESFQHGX2MiDySTT0HOuAYNGBobLS6wkw0290",
+    "userEmail": "itsjstvicky@gmail.com",
+    "userName": "Its Jst ViCkY",
+    "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKiKWdNwK3Afpjlw36S-bGlwAb8AJEuBvewwOlNhOgZqg_COyAW=s96-c",
+    "expiresAt": 1789023114672,
+    "connectedAt": "2026-09-10T05:52:02.517Z"
+  },
+  "_driveMeta": {
+    "syncedAt": "2026-09-10T11:02:17.915Z",
+    "syncedBy": "Vignesh Portfolio Admin",
+    "appVersion": "1.0.0"
+  },
+  "exportedAt": "2026-09-10T11:02:24.689Z",
+  "version": "2.0",
+  "timestamp": 1789015217263,
+  "startMenu": {
+    "layout": "center",
+    "theme": "pixelRetro",
+    "width": 600,
+    "showSearchBar": true,
+    "searchPlaceholder": "Type here to search...",
+    "headerTitle": "Pinned",
+    "allAppsButtonText": "All apps",
+    "userName": "Vignesh",
+    "userTagline": "creator@portfolio.exe",
+    "userAvatarUrl": "",
+    "userAvatarStyle": "pixelAvatar",
+    "showPinnedSection": true,
+    "showRecommendedSection": false,
+    "recommendedSectionTitle": "Recommended",
+    "pinnedApps": [
+      {
+        "id": "pin-portfolio",
+        "destinationType": "existingWindow",
+        "visible": true,
+        "destination": "portfolio",
+        "iconImage": "portfolio",
+        "name": "Portfolio Desk",
+        "category": "Core",
+        "order": 1
+      },
+      {
+        "id": "pin-about",
+        "destinationType": "existingWindow",
+        "category": "Core",
+        "destination": "about",
+        "visible": true,
+        "iconImage": "about",
+        "order": 2,
+        "name": "About Me"
+      },
+      {
+        "id": "pin-contact",
+        "destination": "contact",
+        "iconImage": "contact",
+        "destinationType": "existingWindow",
+        "category": "Social",
+        "order": 3,
+        "name": "Contact & Hire",
+        "visible": true
+      },
+      {
+        "visible": true,
+        "destination": "p1",
+        "order": 4,
+        "badge": "Featured",
+        "name": "UX/UI Case Study",
+        "category": "Creative",
+        "id": "pin-ux-project",
+        "destinationType": "project",
+        "iconImage": "paint"
+      },
+      {
+        "category": "Creative",
+        "destinationType": "project",
+        "id": "pin-ai-video",
+        "order": 5,
+        "name": "AI Video Cinema",
+        "iconImage": "video",
+        "visible": true,
+        "badge": "Hot",
+        "destination": "p2"
+      },
+      {
+        "name": "Video Editing",
+        "id": "pin-video-edit",
+        "visible": true,
+        "iconImage": "terminal",
+        "destinationType": "project",
+        "order": 6,
+        "destination": "p3",
+        "category": "Creative"
+      },
+      {
+        "destination": "skills",
+        "category": "Technical",
+        "id": "pin-skills",
+        "name": "Skills & Stack",
+        "iconImage": "skills",
+        "order": 7,
+        "destinationType": "existingWindow",
+        "visible": true
+      },
+      {
+        "destinationType": "existingWindow",
+        "destination": "experience",
+        "visible": true,
+        "category": "Career",
+        "id": "pin-experience",
+        "iconImage": "experience",
+        "order": 8,
+        "name": "Experience"
+      }
+    ],
+    "recommendedItems": [
+      {
+        "title": "Cyberpunk UI Redesign Case Study",
+        "visible": true,
+        "destinationType": "project",
+        "timestamp": "Featured Project",
+        "iconImage": "projects",
+        "id": "rec-1",
+        "destination": "p1",
+        "subtitle": "UX/UI Design Portfolio"
+      },
+      {
+        "destinationType": "project",
+        "iconImage": "video",
+        "subtitle": "Midjourney & Runway Gen-3",
+        "title": "AI Video Generation Cinema Reel",
+        "timestamp": "2 hours ago",
+        "id": "rec-2",
+        "visible": true,
+        "destination": "p2"
+      },
+      {
+        "timestamp": "Cloud Connected",
+        "visible": true,
+        "iconImage": "googleDrive",
+        "subtitle": "Real-time Google OAuth Connected",
+        "destinationType": "existingWindow",
+        "id": "rec-3",
+        "destination": "googleDrive",
+        "title": "Google Drive Cloud Asset Sync"
+      },
+      {
+        "timestamp": "Updated Today",
+        "title": "Resume & Verified Credentials",
+        "visible": true,
+        "destination": "about",
+        "iconImage": "about",
+        "destinationType": "existingWindow",
+        "id": "rec-4",
+        "subtitle": "PDF Document Download"
+      }
+    ],
+    "showPowerButton": false,
+    "showSleepOption": false,
+    "showRestartOption": false,
+    "showLockOption": false,
+    "showAdminOption": false
+  },
+  "updatedAt": {
+    "type": "firestore/timestamp/1.0",
+    "seconds": 1788803842,
+    "nanoseconds": 969000000
+  },
+  "lastSyncedAt": "2026-09-07T17:57:21.739Z"
+}
